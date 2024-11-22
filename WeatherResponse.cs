@@ -1,6 +1,5 @@
 ﻿namespace WeatherTelegramBot
 {
-    // Перейменуйте клас, якщо ви бажаєте використовувати два різних класи з однаковою структурою.
     public class WeatherResponseB
     {
         public MainInfo Main { get; set; }
